@@ -17,7 +17,7 @@ The program expects following arguments:
 2. Output Path: The path where generated diagram will be stored as a .png or .jpg image.
 
 ####Usage Instructions
-1. Extract UMLParser-deliverables-Bhavin-Agrawal.zip. This contains Source code, converted test cases and executables.
+1. The folder contains Source code, converted test cases and executables.
 2. Open “executables” folder
 a. Go to command prompt/Terminal from this folder
 b. Run in windows
